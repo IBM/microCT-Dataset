@@ -13,7 +13,7 @@ This repository relates to the publication with title:
 
 Available at: TBD
 
-and the corresponding dataset repository archived at: DOI: 10.25452/figshare.plus.21375565
+and the corresponding dataset repository archived at: DOI: [10.25452/figshare.plus.21375565]([url](https://plus.figshare.com/articles/dataset/Full_scale_microscopically_resolved_tomographies_of_sandstone_and_carbonate_rocks_augmented_by_experimental_porosity_and_permeability_values/21375565))
 
 <!-- A more detailed Usage or detailed explaination of the repository here -->
 ## Usage
@@ -22,7 +22,7 @@ This repository comprises the following Jupyter Notebook for for visualizing and
 
 DigitalRock.ipynb
 
-This notebook uses the data in the repository: https://plus.figshare.com/articles/dataset/Full_scale_microscopically_resolved_tomographies_of_sandstone_and_carbonate_rocks_augmented_by_experimental_porosity_and_permeability_values/21375565
+This notebook uses the data in the repository: 
 
 ---
 
