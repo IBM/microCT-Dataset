@@ -11,7 +11,7 @@ This repository relates to the publication with title:
 
 "Full scale, microscopically resolved tomographies of sandstone and carbonate rocks augmented by experimental porosity and permeability values of the same samples" by Matheus Esteves Ferreira et al.
 
-Available at: TBD
+Available at: https://arxiv.org/abs/2212.09894
 
 and the corresponding dataset repository archived at: DOI: [10.25452/figshare.plus.21375565](https://plus.figshare.com/articles/dataset/Full_scale_microscopically_resolved_tomographies_of_sandstone_and_carbonate_rocks_augmented_by_experimental_porosity_and_permeability_values/21375565)
 
